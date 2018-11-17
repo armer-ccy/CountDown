@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/song"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/song_Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"/>
+
+</LinearLayout>
